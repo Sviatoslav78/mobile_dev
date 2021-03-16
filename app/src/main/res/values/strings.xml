@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_your_login">Enter your login</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="login">Login</string>
+    <string name="show_password">Show password</string>
+    <string name="hello_blank_fragment">Hello from result fragment</string>
+    <string name="title_activity_my">MyActivity</string>
+    <string name="here_will_be_your_login">Here will be your login</string>
+    <string name="here_will_be_your_password">Here will be your password</string>
+</resources>
